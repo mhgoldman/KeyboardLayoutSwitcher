@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\KeyboardLayoutSwitcher\KeyboardLayoutSwitcher\bin\Release\KeyboardLayoutSwitcher.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\KeyboardLayoutSwitcher\KeyboardLayoutSwitcher\bin\Release\KeyboardLayoutSwitcher.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\KeyboardLayoutSwitcher\KeyboardLayoutSwitcher\bin\Release\KeyboardLayoutSwitcher.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\KeyboardLayoutSwitcher\KeyboardLayoutSwitcher\obj\x86\Release\KeyboardLayoutSwitcher.MainForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\KeyboardLayoutSwitcher\KeyboardLayoutSwitcher\obj\x86\Release\KeyboardLayoutSwitcher.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\KeyboardLayoutSwitcher\KeyboardLayoutSwitcher\obj\x86\Release\KeyboardLayoutSwitcher.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\KeyboardLayoutSwitcher\KeyboardLayoutSwitcher\obj\x86\Release\KeyboardLayoutSwitcher.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\KeyboardLayoutSwitcher\KeyboardLayoutSwitcher\obj\x86\Release\KeyboardLayoutSwitcher.pdb
